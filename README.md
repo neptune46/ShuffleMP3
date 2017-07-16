@@ -8,3 +8,7 @@ on USB partition root path.
 
 The purpose is to create a new playlist for some hardware mp3 players
 that only have a default in order playback of music files on USB device.
+
+## Screenshot
+
+* ![screenshot](https://github.com/neptune46/ShuffleMP3/blob/master/ShuffleMP3.JPG)
